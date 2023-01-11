@@ -1,0 +1,33 @@
+footer {
+
+    background-color: #141414;
+    color: #fff;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+    padding: 2rem 8rem;
+}
+
+footer img {
+
+    width: 200px;
+}
+
+footer div.lists {
+
+    display: flex;
+}
+
+footer ul {
+
+    margin: 1rem 2rem;
+
+    flex-direction: column;
+}
+
+footer ul li {
+
+    margin: 0.2rem;
+}
